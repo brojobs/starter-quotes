@@ -3,8 +3,10 @@ Starter Webapp - Quotes
 #######################
 
 Team:
-Alex Kyle (x)
+
 Eagle Li - acknowledged
+Alex Kyle (x) tested
+
 
 convention: allmon style
 
