@@ -40,6 +40,7 @@
 
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
+$route['sleep'] = 'first/zzz';
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
 $route['dunno'] = function() {
     $source = './data/surprise.jpg'; // an image you provide
