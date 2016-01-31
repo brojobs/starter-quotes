@@ -43,6 +43,7 @@ $route['404_override'] = '';
 $route['sleep'] = 'first/zzz';
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
 $route['show/(:num)'] = 'first/gimme/$1' ;
+$route['([a-z]+)/bingo'] = 'bingo' ;
 $route['dunno'] = function() {
     $source = './data/surprise.jpg'; // an image you provide
     // set the mime type for that image
