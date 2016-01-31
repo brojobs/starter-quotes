@@ -1,4 +1,8 @@
 newest at the top
 
+2016/01/30 1709: link 6 working
+2016/01/30 1651: link 3 working
+2016/01/30 1640: link 4 working
+2016/01/30 1622: link 1 working
 2016/01/30 1620: link 2 working
 2016/01/28 1352: change log created.
