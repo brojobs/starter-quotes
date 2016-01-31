@@ -49,6 +49,7 @@ $route['dunno'] = function() {
     header('Content-Disposition: inline');
     readfile($source); // dish it
     die(); // and we don't have to go any further
+$route['show/(:num)'] = 'first/gimme/$1' ;
 };
 
 /* End of file routes.php */
