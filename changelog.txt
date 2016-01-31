@@ -1,5 +1,9 @@
 newest at the top
 
+2016/01/30 1759: Lab complete
+2016/01/30 1757: link 8 working
+2016/01/30 1722: link 5 working
+2016/01/30 1720: link 7 working
 2016/01/30 1709: link 6 working
 2016/01/30 1651: link 3 working
 2016/01/30 1640: link 4 working
