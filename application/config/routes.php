@@ -42,6 +42,7 @@ $route['default_controller'] = "welcome";
 $route['404_override'] = '';
 $route['sleep'] = 'first/zzz';
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
+$route['comp(\d+)/(:any)'] = 'Wise/Bingo';
 $route['dunno'] = function() {
     $source = './data/surprise.jpg'; // an image you provide
     // set the mime type for that image
